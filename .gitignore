@@ -1,0 +1,7 @@
+.env
+data/processed/*.csv
+data/raw/
+outputs/models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
